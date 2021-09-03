@@ -23,6 +23,7 @@ Title|Venue|Type|Code|Star
 :--:|:--:|:--:|:--:|:--:
 [Commonsense Knowledge Aware Concept Selection For Diverse and Informative Visual Storytelling](https://arxiv.org/abs/2102.02963)|AAAI21|KG| |
 [Imagine,Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning] |AAAI21|KG+SG|
+[Plot and Rework: Modeling Storylines for Visual Storytelling](https://arxiv.org/abs/2105.06950) |ACL-IJCNLP2021 Findings21|KG|[pytorch==1.7.1]|https://github.com/ethan5437/PR-VIST
 
 ### 2020
 Title|Venue|Type|Code|Star
