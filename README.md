@@ -29,7 +29,7 @@ Title|Venue|Type|Code|Star
 Title|Venue|Type|Code|Star
 :--:|:--:|:--:|:--:|:--:
 [Knowledge-Enriched Visual Storytelling](https://doi.org/10.1609/aaai.v34i05.6303)|AAAI20|KG|[Pytorch1.3](https://github.com/zychen423/KE-VIST)|17+| 
-[What Makes A Good Story? Designing Composite Rewards for Visual Storytelling](https://doi.org/10.1609/aaai.v34i05.6305)|AAAI20|RL| | 
+[What Makes A Good Story? Designing Composite Rewards for Visual Storytelling](https://doi.org/10.1609/aaai.v34i05.6305)|AAAI20|RL|[pytorch=1.0.1](https://github.com/JunjieHu/ReCo-RL)| 
 [Hide-and-Tell: Learning to Bridge Photo Streams for Visual Storytelling](https://aaai.org/ojs/index.php/AAAI/article/view/6780)|AAAI20|En\Decoder| | 
 [Storytelling from an Image Stream Using Scene Graphs](https://aaai.org/ojs/index.php/AAAI/article/view/6455)|AAAI20|SceneGraph| | 
 [Topic Adaptation and Prototype Encoding for Few-Shot Visual Storytelling](https://dl.acm.org/doi/10.1145/3394171.3413886)|ACMMM20|Few-Shot| | 
