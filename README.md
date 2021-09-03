@@ -71,3 +71,4 @@ Title|Venue|Type|Code|Star
 [Learning Deep Contextual Attention Network for Narrative Photo Stream Captioning](https://dl.acm.org/doi/10.1145/3126686.3126715)|ACM MM17 workshop|FasterRCNN+ATT|
 [Hierarchically-Attentive RNN for Album Summarization and Storytelling](https://www.aclweb.org/anthology/D17-1101/)|EMNLP17|En\Decoder|[Python](https://github.com/lichengunc/vist_api)|26+
 [Sort Story: Sorting Jumbled Images and Captions into Stories](https://www.aclweb.org/anthology/D16-1091/)|EMNLP16|Other| | 
+[Visual Storytelling](https://arxiv.org/pdf/1604.03968v1.pdf)|NAACL 2016|seq2seq|[Tensorflow 1.6.0 and Keras 2.1.6](https://github.com/Pendulibrium/ai-visual-storytelling-seq2seq)|
