@@ -9,7 +9,7 @@ Google Drive archived (313GB in total). If you have no access to google drive, m
 
 #### Useful Tool: 
 To evaluate the generated story, metrics like BLEU, CIDEr, METEOR, ROUGE are most common used.
-
+[metrics](https://blog.csdn.net/joshuaxx316/article/details/58696552)
 Evaluation Metrics Implementation: [vist eval](https://github.com/lichengunc/vist_eval).It works with [vist api](https://github.com/lichengunc/vist_api)
 
 The task also needs human evaluation, usually in prespective of "Relevance", "Expressiveness" and "Concreteness", taking AREL(No Metrics Are Perfect, ACL 18) as a referebce.
