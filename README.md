@@ -73,3 +73,6 @@ Title|Venue|Type|Code|Star
 [Hierarchically-Attentive RNN for Album Summarization and Storytelling](https://www.aclweb.org/anthology/D17-1101/)|EMNLP17|En\Decoder|[Python](https://github.com/lichengunc/vist_api)|26+
 [Sort Story: Sorting Jumbled Images and Captions into Stories](https://www.aclweb.org/anthology/D16-1091/)|EMNLP16|Other| | 
 [Visual Storytelling](https://arxiv.org/pdf/1604.03968v1.pdf)|NAACL 2016|seq2seq|[Tensorflow 1.6.0 and Keras 2.1.6](https://github.com/Pendulibrium/ai-visual-storytelling-seq2seq)|
+
+### TEXT SG
+[Cross-modal Scene Graph Matching for Relationship-aware Image-Text Retrieval](https://www.cnblogs.com/zhuwenjuan-blogs/p/13798347.html)|2019|text/image SG|[PYTORCH/python 3.7.9](https://github.com/m2man/LGSGM)|:--:
